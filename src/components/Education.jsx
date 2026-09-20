@@ -32,7 +32,7 @@ const educationData = [
     location: 'Tiruppur',
     degree: 'Secondary School Leaving Certificate (SSLC)',
     period: '2019 – 2021',
-    percentage: 'All Pass',
+    percentage: '80%',
     status: 'Completed',
     icon: '🏫',
     color: '#10b981',
