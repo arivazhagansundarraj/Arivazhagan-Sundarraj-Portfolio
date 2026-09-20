@@ -8,11 +8,11 @@ const skillCategories = [
     icon: '💻',
     color: '#6366f1',
     skills: [
-      { name: 'Python', level: 85, icon: '🐍' },
-      { name: 'Java', level: 70, icon: '☕' },
-      { name: 'MySQL', level: 75, icon: '🗄️' },
-      { name: 'HTML/CSS', level: 80, icon: '🌐' },
-      { name: 'R Programming', level: 65, icon: '📊' },
+      { name: 'Python', level: 80, icon: '🐍' },
+      { name: 'ETL', level: 85, icon: '⚙️' },
+      { name: 'MySQL', level: 85, icon: '🗄️' },
+      { name: 'Deep Learning', level: 60, icon: '🤖' },
+      { name: 'GenAI', level: 60, icon: '✨' },
     ],
   },
   {
@@ -44,7 +44,7 @@ const skillCategories = [
 
 const techPills = [
   'Python', 'Machine Learning', 'Artificial Intelligence', 'Data Analysis',
-  'Java', 'MySQL', 'HTML', 'R Programming', 'Power BI', 'GitHub',
+  'ETL', 'MySQL', 'Deep Learning', 'GenAI', 'Power BI', 'GitHub',
   'VS Code', 'TensorFlow', 'Data Science', 'Gen AI', 'Model Development',
 ];
 
